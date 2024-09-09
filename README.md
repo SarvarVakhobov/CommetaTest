@@ -9,8 +9,8 @@
 
 ###### #clone my repo and enter into the directory
 
-    git clone https://github.com/SarvarVakhobov/YBX_e2e_test.git
-    cd YBX_e2e_test/
+    git clone https://github.com/SarvarVakhobov/CommetaTest.git
+    cd CommetaTest/
 
 ### Step 2:
 
@@ -36,7 +36,7 @@ You should click any browser to start testing.
 
 On next stage, you will see the list of tests. You should click any file to test.
 
-![List of specs](MDfiles/img_2.png "You should click any file to test")
+![List of specs](MDfiles/img_![img.png](img.png)2.png "You should click any file to test")
 
 
 
