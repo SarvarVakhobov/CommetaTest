@@ -1,4 +1,4 @@
-# This is a simple project to test the YBX website using Cypress.
+# This is a simple project to test the id.commeta.uz using Cypress.
 ### Code is written in JavaScript and uses Cypress for end-to-end testing.
 
 
@@ -36,7 +36,7 @@ You should click any browser to start testing.
 
 On next stage, you will see the list of tests. You should click any file to test.
 
-![List of specs](MDfiles/img_![img.png](img.png)2.png "You should click any file to test")
+![List of specs](MDfiles/img_2.png "You should click any file to test")
 
 
 
